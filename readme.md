@@ -12,7 +12,7 @@
 - JavaScript ES6+. 
 
 ## Estructura del Proyecto
-![estructura](http://github.com/AlvarezF7/ assets/img/esquema proyecto.png).
+![estructura](https://github.com/AlvarezF7/M4-evaluacion-final/blob/main/assets/img/estructura-proyecto.png)).
 
 
 ## Funcionalidades
@@ -41,7 +41,7 @@
  
 
 # Ver Proyecto
--[Link al Proyecto]( ).
+- [Link al Proyecto]( ).
 
 ## Créditos
 -
