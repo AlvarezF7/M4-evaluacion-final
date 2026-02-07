@@ -33,9 +33,11 @@
 - Botón “Cerrar” disponible para limpiar el contenido del div sin recargar la página.
 
 ## Capturas
-- Vista de los Botones![captura1] ().
+- Vista de los Botones.
+- ![captura1](https://github.com/AlvarezF7/M4-evaluacion-final/blob/main/assets/img/captura1.png)
 
-- Vista solicita nombre usuario atravez de prompt  ![captura2] ( ).
+- Vista solicita nombre usuario atravez de prompt.
+- ![captura2](https://github.com/AlvarezF7/M4-evaluacion-final/blob/main/assets/img/captura2.png ).
 
  
 
