@@ -1,48 +1,48 @@
 # M4 — Evaluación Final
 
-
-
 ## Descripción
-
+- User Manager es una pequeña aplicación web en JavaScript que consume datos de la API JSONPlaceholder para mostrar información de usuarios de forma interactiva. Permite listar usuarios, ver información básica y avanzada, direcciones y compañías, todo dinámicamente desde el navegador.
 
 ## Tecnologías utilizadas
 - HTML5. 
-- CSS3. 
-- Bootstrap 5.
-- JavaScript ES6+. 
+- CSS3 (Flexbox, Gradientes). 
+- JavaScript ES6+.
+- API: JSONPlaceholder ![](https://jsonplaceholder.typicode.com/users).
 
 ## Estructura del Proyecto
-![estructura](https://github.com/AlvarezF7/M4-evaluacion-final/blob/main/assets/img/estructura-proyecto.png)).
+![estructura](https://github.com/AlvarezF7/M4-evaluacion-final/blob/main/assets/img/estructura-proyecto.png)
 
 
 ## Funcionalidades
 
-- Muestra una lista de 9 Pokémon iniciales y algunos de tipo psiquico.
-- Renderizado dinámico de cards con nombre, imagen, ID y tipo.
-- Búsqueda en tiempo real: filtra Pokémon por nombre mientras escribes.
-- Alerta con mensaje cuando no se encuentra el Pokémon.
-- Hacer clic en la Pokébola de la card para abrir el modal con detalles.
-- Diseño responsive, adaptable a pantallas pequeñas.
+- Listar los nombres de todos los usuarios.
+- Mostrar información básica (username y correo) de un usuario ingresando su nombre.
+- Mostrar dirección completa de un usuario.
+- Mostrar información avanzada (teléfono, sitio web, compañía y frase de la compañía).
+- Listar todas las compañías junto con su “catchphrase”.
+- Listar los nombres de todos los usuarios ordenados alfabéticamente.
+- Mostrar la información en un div dinámico con opción de cerrar el contenido.
+- Botones creados dinámicamente desde JavaScript.
 
 # Manejo de errores
  El proyecto implementa manejo de errores básico enfocado en la experiencia del usuario:
 
-- Uso de try / catch en la carga inicial de datos para detectar fallos en la PokeAPI.
-- Mensaje visual cuando no es posible obtener los Pokémon.
-- Validación del campo de búsqueda para evitar resultados inválidos.
-- Alerta visual cuando no se encuentran coincidencias en la búsqueda.
-- El modal utiliza datos previamente cargados, por lo que no se implementó manejo de errores  adicional en esta sección.
+- Si la API no responde o hay un error de red, se muestra un mensaje en la consola.
+- Si un usuario no existe, se muestra un alert y un mensaje en el div #result.
+- Antes de mostrar datos en el div, se valida que la información ya esté cargada para evitar errores.
+- Botón “Cerrar” disponible para limpiar el contenido del div sin recargar la página.
 
 ## Capturas
-![Vista de la aplicaión desde un computador] ().
+- Vista de los Botones![captura1] ().
 
-![Vista de la aplicacion desde un Idpad] ( ).
-![Vista de la aplicación desde un Iphone] (  ).
+- Vista solicita nombre usuario atravez de prompt  ![captura2] ( ).
+
  
 
 # Ver Proyecto
 - [Link al Proyecto]( ).
 
-## Créditos
--
+## Autor
+- Fernanda Álvarez para curso Fullstack Javascript Sence.
  
+
