@@ -7,7 +7,7 @@
 - HTML5. 
 - CSS3 (Flexbox, Gradientes). 
 - JavaScript ES6+.
-- API: JSONPlaceholder ![](https://jsonplaceholder.typicode.com/users).
+- API: JSONPlaceholder ![](https://jsonplaceholder.typicode.com/users)
 
 ## Estructura del Proyecto
 ![estructura](https://github.com/AlvarezF7/M4-evaluacion-final/blob/main/assets/img/estructura-proyecto.png)
