@@ -42,9 +42,9 @@
  
 
 # Ver Proyecto
-- [Link al Proyecto]( ).
+[Link al Proyecto](https://alvarezf7.github.io/M4-evaluacion-final/).
 
 ## Autor
-- Fernanda Álvarez para curso Fullstack Javascript Sence.
+Fernanda Álvarez para curso Fullstack Javascript Sence.
  
 
